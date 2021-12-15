@@ -1,0 +1,33 @@
+header {
+  text-align: center;
+  margin: 50px;
+  font-size: 32px;
+  font-weight: 700;
+  color: darkblue;
+}
+.container {
+  background-color: #dee2e6;
+  padding: 10px;
+  border-radius: 15px;
+}
+
+.question-container {
+  display: flex;
+  justify-content: space-between;
+}
+.body-container {
+  margin: 10px 0;
+}
+.main-accordion {
+  width: 100% !important;
+}
+.accordion-button {
+  background: transparent !important;
+  font-weight: 600;
+  font-size: 20px;
+  color: #00008b;
+}
+.accordion-item {
+  background-color: transparent !important;
+  border: none !important;
+}
